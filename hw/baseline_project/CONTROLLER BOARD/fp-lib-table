@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/ECE445L.pretty")(options "")(descr ""))
+  (lib (name "ECE445L")(type "KiCad")(uri "${KIPRJMOD}/ECE445L.pretty")(options "")(descr ""))
+  (lib (name "Shifter")(type "KiCad")(uri "${KIPRJMOD}/Shifter")(options "")(descr ""))
+)
